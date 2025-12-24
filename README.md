@@ -2,7 +2,9 @@
 # Análise de Desempenho de Lojas
 
 ## Descrição
-Este notebook tem como objetivo analisar o desempenho de diferentes lojas de uma rede, utilizando dados de faturamento mensal e avaliações de clientes. A análise visa identificar lojas com desempenho abaixo do esperado e sugerir possíveis intervenções estratégicas.
+Este notebook tem como objetivo analisar o desempenho de diferentes lojas de uma rede, utilizando dados de faturamento mensal
+e avaliações de clientes. A análise visa identificar lojas com desempenho abaixo do esperado e sugerir possíveis
+intervenções estratégicas.
 
 ## Dados
 Os dados foram obtidos do [Alura Challenge 1] e contêm informações sobre o faturamento mensal e avaliações de clientes para diferentes lojas (Loja-1, Loja-2, Loja-3, Loja-4) ao longo do tempo.
