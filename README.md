@@ -33,10 +33,10 @@ A `Loja-1` lidera por categoria de vendas e a `Loja-4` fica com o pior desempenh
   <img src="imagens/grafico_receita_media.png" width="800px">
 </p>
 
-### 3. Média de Avaliação das Lojas (NPS)
+### 3. Média de Avaliação das Lojas
 Monitoramento da satisfação do cliente, com notas de avaliação de 1 a 5.
 <p align="left">
-  <img src="imagens/tabela_media_avaicao_lojas.png" width="20%">
+  <img src="imagens/tabela_media_avaicao_lojas.png" width="25%">
 </p>
 
 * **Destaque:** `Loja-3` apresenta a melhor média de avaliação.
@@ -46,7 +46,7 @@ Monitoramento da satisfação do cliente, com notas de avaliação de 1 a 5.
 Identificação dos itens "Best Sellers" e daqueles com baixa rotatividade para auxílio na gestão de estoque.
 
 #### 🏆 Top 5 Produtos Globais por Receita
-| Ranking | Produto | Valor |
+| Ranking | Produto | Preço |
 | :--- | :--- | :--- |
 | 1º | TV Led UHD 4K | R$ 576.652,70 |
 | 2º | Celular Plus X42 | R$ 534.735,14 |
@@ -59,11 +59,13 @@ Identificação dos itens "Best Sellers" e daqueles com baixa rotatividade para 
 </p>
 
 #### 📉 Menos Vendidos (Baixa Receita)
-1. Jogo de copos: R$ 7.445,28
-2. Xadrez de madeira: R$ 6.865,90
-3. Dinossauro Rex: R$ 4.150,53
-4. Corda de pular: R$ 4.090,93
-5. Cubo mágico 8x8: R$ 3.638,68
+| Ranking | Produto | Preço |
+| :--- | :--- | :--- |
+| 1º | Jogo de copos | R$ 7.445,28 |
+| 2º | Xadrez de madeira | R$ 6.865,90 |
+| 3º | Dinossauro Rex | R$ 4.150,53 |
+| 4º | Corda de pular| R$ 4.090,93 |
+| 5º | Cubo mágico 8x8 | R$ 3.638,68 |
 
 <p align="left">
   <img src="imagens/faturamento_5_menos_produtos.png" width="800px">
@@ -72,7 +74,7 @@ Identificação dos itens "Best Sellers" e daqueles com baixa rotatividade para 
 ### 5. Frete Médio e Eficiência Logística
 Avaliação do impacto dos custos logísticos na atratividade de cada unidade.
 <p align="left">
-  <img src="imagens/tabela_frete_medio_loja.png" width="15%">
+  <img src="imagens/tabela_frete_medio_loja.png" width="20%">
 </p>
 
 * **Análise Logística:** A `Loja-1` apresenta o pior desempenho em custo de frete. Na `Loja-4`, fretes elevados reduzem diretamente o volume de vendas.
@@ -107,24 +109,24 @@ Análise histórica para identificar padrões de crescimento e gaps competitivos
   <img src="imagens/tendencia_faturamento_mensal_loja.png" width="800px">
 </p>
 
-* **Diagnóstico:** As Lojas 1, 2 e 3 mantêm estabilidade. A **Loja-4** apresenta dificuldades de tração e um declínio constante.
-* **Share de Receita:** A **Loja-4** contribui com apenas **23,6%** do total, reforçando a necessidade de revisão estratégica.
+* **Diagnóstico:** As Lojas 1, 2 e 3 mantêm estabilidade. A `Loja-4` apresenta dificuldades de tração e um declínio constante.
 
 <p align="left">
   <img src="imagens/percentual_faturamento_total_loja.png" width="800px">
 </p>
 
+* **Share de Receita:** A `Loja-4` contribui com apenas **23,6%** do total, reforçando a necessidade de revisão estratégica.
 ---
 
 ## 💡 Conclusão e Recomendação Estratégica
 
-Os dados revelam que a **Loja-4 apresenta o desempenho mais crítico do grupo**.
+Os dados revelam que a `Loja-4` apresenta o **desempenho mais crítico do grupo**.
 
 **Principais Desafios:**
 * Faturamento abaixo da média e tendência negativa.
 * Custo logístico elevado impactando a margem.
 
-**Recomendação Executiva:** Reestruturação operacional imediata ou avaliação de **fechamento da Unidade 4** para reinvestimento em áreas com maior ROI.
+**Recomendação Executiva:** Reestruturação operacional imediata ou avaliação de `fechamento da Loja-4` para reinvestimento em áreas com maior ROI.
 
 ---
 
@@ -145,9 +147,10 @@ Os dados revelam que a **Loja-4 apresenta o desempenho mais crítico do grupo**.
 ---
 
 ## 🚀 Como Executar
-1. Clone o repositório.
-2. Instale as dependências: `pip install pandas numpy matplotlib seaborn`.
-3. Execute o notebook `AluraStoreBrasil.ipynb`.
+
+<p>1. Clone o repositório.</p>
+<p>2. Instale as dependências: <code>pip install pandas numpy matplotlib seaborn</code>.</p>
+<p>3. Execute o notebook <code>AluraStoreBrasil.ipynb</code>.</p>
 
 ---
 ---
